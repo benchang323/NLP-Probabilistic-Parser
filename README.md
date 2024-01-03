@@ -33,6 +33,6 @@ This NLP Probabilistic Parsing project focuses on developing a probabilistic par
 
 ## Installation
 ```
-git clone https://github.com/benchang323/NLP-Probabilistic-Parser-.git
-cd /NLP-Probabilistic-Parser-
+git clone https://github.com/benchang323/NLP-Probabilistic-Parser.git
+cd /NLP-Probabilistic-Parser
 ```
